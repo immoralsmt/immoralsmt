@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Tarif Sajid
 
-<!--
-**immoralsmt/immoralsmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer  
+🌱 Building real-world full-stack web applications  
+🚀 Passionate about learning and improving every day
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Frontend:** React, Vite, HTML, CSS, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB Atlas
+- **Tools:** Git, GitHub, Axios, Postman
+
+---
+
+## 📌 Featured Project
+### 🔹 CRUD Full MERN Application
+- User management (Add, Update, Delete)
+- RESTful REST APIs with Express
+- MongoDB Atlas integration
+- Clean and responsive UI
+
+🔗 Repository: https://github.com/immoralsmt/CRUD-full-MERN
+
+---
+
+## 📈 Currently Learning
+- Advanced React
+- Authentication (JWT)
+- Deployment (Netlify & Render)
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/immoralsmt
